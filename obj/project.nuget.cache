@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcqE2N63Q/1McaEna6cn727jT4DhZIdxng1g7f1LdqWcTG5VZQg7rR5nSVrKPsBn6plvOQlgqrM8lZYpy0x8uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khalied\\source\\repos\\Win32GUI\\Win32\\Newtonian-Particle-Simulator-master\\Newtonian-Particle-Simulator\\Newtonian-Particle-Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khalied\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Khalied\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Khalied\\.nuget\\packages\\opentk\\3.3.2\\opentk.3.3.2.nupkg.sha512",
+    "C:\\Users\\Khalied\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK 3.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
